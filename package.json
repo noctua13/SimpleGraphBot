@@ -1,0 +1,28 @@
+{
+  "name": "graph-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that can solve some Graph Theory questions.",
+  "main": "server.js",
+  "author": "noctua",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/graph-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "graph",
+    "graph theory",
+    "node",
+    "glitch"
+  ]
+}
